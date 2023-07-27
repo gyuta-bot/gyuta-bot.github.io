@@ -1,1 +1,0 @@
-# gyuta-bot.github.io
